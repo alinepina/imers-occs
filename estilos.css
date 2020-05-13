@@ -1,0 +1,38 @@
+body {
+    background-image: url("http://hyper-reality.co/assets/HQ_images/hyper-reality_05.jpg");
+    background-size: auto 100vh;
+    font-family: segoe UI;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: yellow;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    color: yellow;
+    font-style: italic;
+  }
